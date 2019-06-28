@@ -6,7 +6,7 @@ export const environment = {
   production: false,
 
   apiUrl: 'http://localhost:8080',
-  tilesUrl: 'https://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png?apikey=a5dd6a2f1c934394bce6b0fb077203eb'
+  tilesUrl: 'https://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png?apikey=apikey'
   // tilesUrl: 'http://{s}.tile.osm.org/{z}/{x}/{y}.png'
 };
 
